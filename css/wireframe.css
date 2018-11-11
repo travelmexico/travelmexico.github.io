@@ -1,0 +1,33 @@
+.hero { 
+  background: url(https://drifterplanet.com/wp-content/uploads/2017/12/Cancun-Private-Beach-Party.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+  height:200px;
+}
+
+h1{
+    text-align:center;
+    font-size:90px;
+}
+
+
+.intro-left{
+float: left;
+width: 70%
+
+}
+.intro-right{
+	float: right;
+	width: 30%
+}
+
+.right-image{
+float: right;
+width: 100%;
+margin-top: 72px;
+}
+
+

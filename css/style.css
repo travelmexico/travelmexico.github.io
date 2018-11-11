@@ -1,0 +1,79 @@
+h1{
+	color:#90e886;
+	font-size:70px;
+	text-align:center;
+	
+}
+
+.bigtoppadding{
+	padding-top: 40px;
+}
+body { 
+  background: url(https://images.pexels.com/photos/1250260/pexels-photo-1250260.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.red-text {
+	color:red;
+}
+
+.big-place{
+	font-size: 50px;
+}
+.white-text{
+	color:white;
+}
+.font-style{
+	font-style: italic;
+}
+
+h2{
+	color:#7e9e7b;
+}
+
+.font-family{
+	font-family:times;
+}
+
+.font-weight{
+	font-weight:900;
+}
+
+.image-fit{
+   width: 100%
+}
+
+.font-color{
+	color: yellow !important;
+	text-decoration: none;
+}
+
+
+.font-family{
+	font-family:'Lobster', cursive;
+}
+
+.font-familyacme{
+	font-family: 'Acme', sans-serif;
+}
+
+.font-family3{
+font-family:'Gloria Hallelujah', cursive;
+}
+
+.season-size{
+	font-size:30px;
+}
+
+
+
+
+
+
+
+
+
+
